@@ -9,7 +9,7 @@ STEP 2: in cell 2, insert the name of the CSV file
 STEP 3: select run all cells
 
 
-StocksLSTMwTensorflow:
+StocksLSTMwoRobustScaler:
 
 this is the same program but without robustscaler toolbox.
 It has some errors that still need to be worked out.
